@@ -1,0 +1,53 @@
+body{
+  background-color: rgb(0, 0, 0);
+  color: aliceblue;
+}
+
+/* Classes */
+
+.wrapper{
+  width: 70%;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-left: 1px solid lawngreen;
+  border-right: 1px solid lawngreen;
+}
+
+.profile {
+  width: 70%;
+  margin: 10px 0px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: 1px solid lawngreen;
+}
+
+/* H1-H6 */
+
+H1{
+  font-size: x-large;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+H2{
+  font-size: larger;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+H6{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* IDs */
+
+#My-Face{
+  width: 40%;
+  border: 1px solid lawngreen;
+  margin: 12px auto;
+}
+
+#Goof-face{
+  font-size: small;
+}
