@@ -1,9 +1,17 @@
 body{
-  background-color: rgb(0, 0, 0);
-  color: aliceblue;
+  background-color: black;
+  color: rgb(221, 232, 255);
 }
 
 /* Classes */
+
+.navbar{
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  border-bottom: 1px solid lawngreen;
+}
 
 .wrapper{
   width: 70%;
@@ -27,12 +35,19 @@ body{
 /* H1-H6 */
 
 H1{
+  background-color: black;
+  font-size: xx-large;
+  font-family: Arial, Helvetica, sans-serif;
+  
+}
+
+H2{
   font-size: x-large;
   font-family: Arial, Helvetica, sans-serif;
 }
 
-H2{
-  font-size: larger;
+H3{
+  font-size: large;
   font-family: Arial, Helvetica, sans-serif;
 }
 
