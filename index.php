@@ -13,7 +13,6 @@
       <H1>V1ttle5</H1>
       <IMG id="My-Face" src="Face.jpg">
       <H2>An Indie Game Developer</H2>
-      <H6 id="Goof-face">Note Goofy Face</H6>  
     </DIV>
       
   </DIV>
