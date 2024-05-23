@@ -19,6 +19,8 @@ A{
 
 .button:hover{
   background-color: rgb(32, 32, 32);
+  border-left: 1px solid lawngreen;
+  border-right: 1px solid lawngreen;
 }
 
 
@@ -62,7 +64,7 @@ A{
   border-right: 1px solid lawngreen;
 }
 
-.profile {
+.article {
   width: 70%;
   margin: 10px 0px;
   display: flex;
